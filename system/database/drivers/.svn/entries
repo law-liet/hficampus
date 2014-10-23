@@ -1,0 +1,92 @@
+10
+
+dir
+1179
+https://svn.sinaapp.com/hficampus/2/system/database/drivers
+https://svn.sinaapp.com/hficampus
+
+
+
+2014-01-11T03:35:21.278555Z
+326
+ygd1995@live.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+665c6c52-8323-4957-8282-1cbac5866cd5
+
+mssql
+dir
+
+sqlite
+dir
+
+oci8
+dir
+
+pdo
+dir
+
+postgre
+dir
+
+mysql
+dir
+
+odbc
+dir
+
+cubrid
+dir
+
+sqlsrv
+dir
+
+index.html
+file
+
+
+
+
+2014-04-23T15:23:32.000000Z
+0227cfd904e99656279202032b98d4a7
+2014-01-11T03:35:21.278555Z
+326
+ygd1995@live.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+114
+
+mysqli
+dir
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/hficampus/!svn/ver/1099/2/application/libraries
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/hficampus/!svn/ver/326/2/application/libraries/Json.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/hficampus/!svn/ver/780/2/application/libraries/Auth.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/hficampus/!svn/ver/326/2/application/libraries/Log.php
+END
+Interval.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hficampus/!svn/ver/326/2/application/libraries/Interval.php
+END
+Upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/hficampus/!svn/ver/326/2/application/libraries/Upload.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/hficampus/!svn/ver/326/2/application/libraries/index.html
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/hficampus/!svn/ver/326/2/application/libraries/Node.php
+END
+Rsa.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/hficampus/!svn/ver/326/2/application/libraries/Rsa.php
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/hficampus/!svn/ver/409/2/application/libraries/Email.php
+END
+ErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hficampus/!svn/ver/326/2/application/libraries/ErrorHandler.php
+END
+Aes.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/hficampus/!svn/ver/326/2/application/libraries/Aes.php
+END
+Channel.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hficampus/!svn/ver/1099/2/application/libraries/Channel.php
+END
+Image_lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/hficampus/!svn/ver/326/2/application/libraries/Image_lib.php
+END
+Permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hficampus/!svn/ver/326/2/application/libraries/Permission.php
+END
